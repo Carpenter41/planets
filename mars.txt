@@ -1,1 +1,2 @@
+second added line above
 This is a text file
