@@ -1,3 +1,4 @@
 second added line above
 This is a text file
 third line below for testin
+fourth line needs coffee
